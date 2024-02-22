@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: xyz.ge1st
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, assertj, http-client-test, java, java-application, jax-rs, junit, logback, lombok, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, openapi, properties, readme, serialization-jackson, shade, static-resources, swagger-ui]
